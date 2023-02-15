@@ -72,13 +72,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### Number and name of feature: #1: Display Images
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: 30 min
 
-Start time: _____
+Start time: 12:47
 
-Finish time: _____
+Finish time: 
 
-Actual time needed to complete: _____
+Actual time needed to complete: 
 
 ### Number and name of feature: #2: Allow Users to Favorite Individual Beasts
 
